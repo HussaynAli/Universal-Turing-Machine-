@@ -1,6 +1,6 @@
 # Instructions
 
-##LOAD:
+## LOAD:
 * If you place the file in the UTM directory then Path=>"anbn.txt"
 * Else Path=>"Completepath" Note use "//" instead of '/'
 
