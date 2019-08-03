@@ -16,3 +16,11 @@ Format For input Tape:
 Startstate
 Blanksymbol
 Input
+
+## Sample Encodings Available
+
+*	Binary Addition.txt	
+*	Binary Subtraction.txt	
+*	Binary n.txt	
+* 	WWR2.txt	
+* 	anbn.txt
