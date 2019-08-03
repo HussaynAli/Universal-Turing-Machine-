@@ -24,3 +24,4 @@ Input
 *	Binary n.txt	
 * 	WWR2.txt	
 * 	anbn.txt
+*	unary-multiplication.txt
